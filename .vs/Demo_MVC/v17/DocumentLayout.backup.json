@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\Demo_Nhom5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Demo_.csproj|d:\\cnpm\\demo_nhom5\\buoi9\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Demo_.csproj|solutionrelative:buoi9\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|D:\\CNPM\\Demo_Nhom5\\buoi9\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Demo_.csproj|d:\\cnpm\\demo_nhom5\\buoi9\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Demo_.csproj|solutionrelative:buoi9\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|D:\\CNPM\\Demo_Nhom5\\buoi9\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|D:\\CNPM\\Demo_Nhom5\\buoi9\\views\\sach\\sachpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\views\\sach\\sachpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|D:\\CNPM\\Demo_Nhom5\\buoi9\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|D:\\CNPM\\Demo_Nhom5\\buoi9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{746226D2-31E4-4ACB-9BA4-1601BD80872D}|Buoi9\\Buoi9.csproj|solutionrelative:buoi9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Buoi9\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:01:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\SachController.cs",
+              "RelativeToolTip": "Buoi9\\Controllers\\SachController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:21:02.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Buoi9\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Buoi9\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:14:42.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SachPartial.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\Sach\\SachPartial.cshtml",
+              "RelativeDocumentMoniker": "Buoi9\\Views\\Sach\\SachPartial.cshtml",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\Sach\\SachPartial.cshtml",
+              "RelativeToolTip": "Buoi9\\Views\\Sach\\SachPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:13:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Buoi9\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "Buoi9\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:50:31.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLayout.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Buoi9\\Views\\Shared\\UserLayout.cshtml",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeToolTip": "Buoi9\\Views\\Shared\\UserLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:42:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Web.config",
+              "RelativeDocumentMoniker": "Buoi9\\Web.config",
+              "ToolTip": "D:\\CNPM\\Demo_Nhom5\\Buoi9\\Web.config",
+              "RelativeToolTip": "Buoi9\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T13:34:05.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
